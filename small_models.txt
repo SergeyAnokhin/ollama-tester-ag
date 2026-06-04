@@ -1,0 +1,10 @@
+llava:latest
+qwen2.5vl:3b
+moondream:latest
+qwen2.5vl:latest
+gemma3:4b
+qwen3.5:4b
+gemma4:e2b
+gemma4:e4b
+deepseek-r1:14b
+qwen3.5:9b
